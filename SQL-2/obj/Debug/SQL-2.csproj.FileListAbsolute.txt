@@ -1,0 +1,10 @@
+C:\Users\pc-hp\Desktop\01\SQLDatabase\SQL-2\bin\Debug\Clients.mdf
+C:\Users\pc-hp\Desktop\01\SQLDatabase\SQL-2\bin\Debug\Clients_log.ldf
+C:\Users\pc-hp\Desktop\01\SQLDatabase\SQL-2\bin\Debug\SQL-2.exe.config
+C:\Users\pc-hp\Desktop\01\SQLDatabase\SQL-2\bin\Debug\SQL-2.exe
+C:\Users\pc-hp\Desktop\01\SQLDatabase\SQL-2\bin\Debug\SQL-2.pdb
+C:\Users\pc-hp\Desktop\01\SQLDatabase\SQL-2\obj\Debug\SQL-2.csproj.AssemblyReference.cache
+C:\Users\pc-hp\Desktop\01\SQLDatabase\SQL-2\obj\Debug\SQL-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc-hp\Desktop\01\SQLDatabase\SQL-2\obj\Debug\SQL-2.csproj.CoreCompileInputs.cache
+C:\Users\pc-hp\Desktop\01\SQLDatabase\SQL-2\obj\Debug\SQL-2.exe
+C:\Users\pc-hp\Desktop\01\SQLDatabase\SQL-2\obj\Debug\SQL-2.pdb

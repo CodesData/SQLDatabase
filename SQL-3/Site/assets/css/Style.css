@@ -1,0 +1,30 @@
+﻿/* style.css */
+
+@charset "utf-8";
+
+/* page */
+.page {
+    margin-top: 60px;
+    font-size: 13px;
+    color: #333;
+    background-color: #dae1e3;
+}
+
+.pagecontent {
+    background-color: white;
+    padding: 15px 15px 15px 15px; /* Top-Right-Bottom-Left */
+    margin-top: -5px;
+    margin-bottom: -5px;
+}
+
+/* content */
+.form-margin {
+    margin-top: -10px;
+}
+
+/* sidebar */
+#sidebar {
+    font-size: 12px;
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+    margin-bottom: 5px;
+}
